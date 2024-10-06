@@ -3,7 +3,7 @@
 ## Environment Setup
 ```
 # set up python dependencies
-conda env create -f environment.yml
+conda env create -f environment-tf_gpu.yml
 
 # make sure to activate conda environment before running any python script
 conda activate tf_gpu
